@@ -17,4 +17,5 @@ int main() {
     cout << &b << endl;    // Output: Address of 'b' (e.g., 0x61fe14)
 
     return 0;
+    //hello;
 }
